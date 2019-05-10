@@ -1,1 +1,1 @@
-# py-game
+# python-game
